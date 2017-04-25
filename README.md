@@ -1,2 +1,1 @@
-# cse2
-CSE department website
+Support for CSE department website
