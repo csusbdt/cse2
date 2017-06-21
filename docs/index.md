@@ -4,8 +4,6 @@
 * [Bioinformatics](bi/)
 * [Masters](ms/)
 
-bi
-ce
 cse399
 cse482
 cse575
@@ -19,4 +17,3 @@ forms
 help
 info
 miscellaneous
-ms
