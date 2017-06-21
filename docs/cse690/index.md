@@ -1,5 +1,5 @@
 ## CSE 690
 
 * [home](../)
-* [Proposal template](cse690-flyer-template.doc)
+* [Presentation flyer template](cse690-flyer-template.doc)
 
