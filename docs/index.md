@@ -1,7 +1,8 @@
+* [Computer Science](cs/)
 * [Computer Systems](ba/)
+
 bi
 ce
-cs
 cse399
 cse482
 cse575
@@ -13,7 +14,6 @@ flowcharts
 flyers
 forms
 help
-index.html
 info
 miscellaneous
 ms
