@@ -17,6 +17,7 @@ where you can find forms, templates, and other docs.
 * [cse595](cse595)
 * [cse690](cse690)
 * [cse695](cse695)
+* [cse699](cse699)
 
 ## Miscellaneous docs
 
