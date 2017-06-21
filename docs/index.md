@@ -1,5 +1,8 @@
 * [Computer Science](cs/)
+* [Computer Engineering](ce/)
 * [Computer Systems](ba/)
+* [Bioinformatics](bi/)
+* [Masters](ms/)
 
 bi
 ce
