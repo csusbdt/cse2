@@ -1,6 +1,12 @@
 This is a supplemental website for the School of Computer Science and Engineering at CSUSB
 where you can find forms, templates, and other docs.
 
+## Schedules
+
+* [Faculty office hours](office-hours.pdf)
+* [Lab hours](lab-hours.pdf)
+* [Help desk schedule](help-desk-schedule.pdf)
+
 ## Docs related to programs
 
 * [Computer Science](cs/)
@@ -23,8 +29,6 @@ where you can find forms, templates, and other docs.
 
 * [flowcharts](flowcharts)
 * [flyers](flyers)
-* [miscellaneous forms](forms)
 * [help docs](help)
-* [info](info)
-* [miscellaneous](miscellaneous)
+* [miscellaneous forms](miscellaneous)
 

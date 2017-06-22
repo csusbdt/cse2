@@ -1,7 +1,6 @@
 ## Help Docs
 
 * [home](../)
-* [Help_desk_schedule.pdf](Help_desk_schedule.pdf)
 * [SSHX11ForwardingTutorial.pdf](SSHX11ForwardingTutorial.pdf)
 * [Tutor_Schedule.pdf](Tutor_Schedule.pdf)
 * [VNC-combined.pdf](VNC-combined.pdf)
